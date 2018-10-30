@@ -1,0 +1,8 @@
+	[18/May/30 09:00:45][AUDIT][tktkg5sbpdo4dn5f0pi5hq631k][GUI]
+		Login for 'admin' from '::1' succeeded
+	[18/May/30 09:01:25][AUDIT][tktkg5sbpdo4dn5f0pi5hq631k][GUI]
+		Logout of 'admin'
+	[18/May/30 09:01:52][AUDIT][tktkg5sbpdo4dn5f0pi5hq631k][GUI]
+		Login for 'admin' from '::1' succeeded
+	[18/May/30 09:08:53][AUDIT][tktkg5sbpdo4dn5f0pi5hq631k][GUI - Test Project ID : 1]
+		Test Project 'SampleProject' was created
